@@ -33,7 +33,7 @@ requests](https://github.com/pulls) [Issues](https://github.com/issues)
 
 [Explore](https://github.com/explore)
 [Settings](https://github.com/settings/profile)
-[![@arunwosti](./README_files/41037355)
+[![@arunwosti](./ss1.png)
 arunwosti](https://github.com/arunwosti)
 
 Sign out
