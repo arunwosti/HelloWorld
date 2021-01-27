@@ -1,3 +1,3 @@
 ##Hello World
 ----
-[![@arunwosti](./ss1.png | width=200)
+[![@arunwosti](./ss1.png)
