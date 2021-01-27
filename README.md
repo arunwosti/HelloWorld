@@ -1,5 +1,4 @@
 ##Hello World
 ----
-##[![@arunwosti](./ss1.png)
----
-<img src="./ss1.png" alt="alt text" width="200" height="300">
+
+<img src="./ss1.png" alt="alt text" width="350" height="500">
